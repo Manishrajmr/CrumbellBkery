@@ -365,6 +365,7 @@ color:rgb(224, 41, 9) ;}
     }
 
     .buttons{
+        display: flex;
         gap: 15px;
     }
 }
