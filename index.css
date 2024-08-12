@@ -449,7 +449,10 @@ color:rgb(224, 41, 9) ;}
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
     transition: transform 0.3s ease;
+
 }
+
+
 
 .team-member:hover {
     transform: translateY(-10px);
